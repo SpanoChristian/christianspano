@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+![MasterHead](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)
 <h1 align="center">Hi 👋, I'm Christian Spano</h1>
 <h3 align="center">In love with Data Science</h3>
 <img align="right" alt="Coding" width="400" src="http://roboticswizards.com/AI/img/acquire.gif" />

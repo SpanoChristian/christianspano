@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, Matlab and R**
 
-- 📫 How to reach me **c.spano84@gmail.com**
+- 📫 How to reach me: **c.spano84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

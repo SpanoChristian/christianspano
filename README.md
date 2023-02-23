@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)
+<p align="center"><img src='https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif' /></p>
 <h1 align="center">Hi 👋, I'm Christian Spano</h1>
 <h3 align="center">In love with Data Science</h3>
 <img align="right" alt="Coding" width="400" src="http://roboticswizards.com/AI/img/acquire.gif" />
